@@ -10,4 +10,5 @@ All data came from:
 - https://www.ecollectivecarbon.com/blog/carbon-footprint-formula-one?start 
 
 Chat GPT was used as a resource, but did not generate any code
+
 All photos were sourced from unsplash
